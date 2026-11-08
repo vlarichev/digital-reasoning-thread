@@ -8,7 +8,14 @@ The **Digital Reasoning Thread (DRT)** introduces a new way of thinking: capturi
 - ✅ Maintains traceable context and logic across the lifecycle
 - ✅ Accelerates iteration, reduces transition loss, and enables trustworthy agent-based systems
 
-📥 **[Download the Whitepaper](./pdf/digital-reasoning-thread-whitepaper.pdf)**  
+## Latest paper
+
+📥 **[Making Industry Compilable: The Digital Reasoning Thread (v1 PDF)](./pdf/making_industry_compilable.pdf)**  
+🔗 DOI: [10.5281/zenodo.24056066](https://doi.org/10.5281/zenodo.24056066)
+
+## Baseline whitepaper (v0.2)
+
+📥 **[Download whitepaper PDF](./pdf/digital_reasoning_thread_v0.2.pdf)**  
 📄 **[Read the Whitepaper in browser →](./whitepaper.md)**
 
 ---
